@@ -1,0 +1,52 @@
+{
+    "files.eol": "\n",
+    "editor.rulers": [
+        79,
+        80
+    ],
+    "cSpell.userWords": [
+        "combinational",
+        "microarchitecture"
+    ],
+    "editor.acceptSuggestionOnEnter": "off",
+    "cSpell.language": "en-GB,en-US,tr-TR,en",
+    "editor.renderWhitespace": "all",
+    "gitlens.hovers.currentLine.over": "line",
+    "cSpell.enabledLanguageIds": [
+        "asciidoc",
+        "c",
+        "cpp",
+        "csharp",
+        "css",
+        "git-commit",
+        "go",
+        "handlebars",
+        "haskell",
+        "html",
+        "jade",
+        "java",
+        "javascript",
+        "javascriptreact",
+        "json",
+        "jsonc",
+        "latex",
+        "less",
+        "markdown",
+        "php",
+        "plaintext",
+        "pug",
+        "python",
+        "restructuredtext",
+        "rust",
+        "scala",
+        "scss",
+        "text",
+        "typescript",
+        "typescriptreact",
+        "yaml",
+        "yml"
+    ],
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Monokai",
+    "insertDateString.format": "YYYY-MM-DDThh:mm:ssZZZ"
+}
