@@ -10,7 +10,6 @@ or `code --list-extensions | xargs -L 1 echo code --install-extension` on Linux.
 Current result:
 
     code --install-extension azemoh.one-monokai
-    code --install-extension ban.spellright
     code --install-extension CoenraadS.bracket-pair-colorizer-2
     code --install-extension DavidAnson.vscode-markdownlint    
     code --install-extension dracula-theme.theme-dracula
